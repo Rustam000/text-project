@@ -26,3 +26,5 @@
                     <li>Село:</li>
                     <li>Улица:</li>
                     <li>Район города:</li>
+                    lg:ml-4 mb-4 lg:mb-10
+                    lg:flex-row gap-4 lg:gap-8
